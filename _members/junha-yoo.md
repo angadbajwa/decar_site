@@ -1,8 +1,7 @@
 ---
-name: John Doe
+name: Junha Yoo
 image: images/photo.jpg
-role: phd
-group: alum
+role: masters
 links:
   github: john-doe
 ---
