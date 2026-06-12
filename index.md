@@ -1,7 +1,7 @@
 ---
 ---
 
-# angadbajwa's Website
+# Welcome to DECAR!
 
 An engaging 1-3 sentence description of your lab.
 
